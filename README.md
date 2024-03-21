@@ -99,7 +99,7 @@ python main.py --data_name pql --cfg ht_pqlM --n_hop 3 --num_workers 2 --abl_ans
 
 
 ## Credits
-* Parts of the code were adapted from [Multimodal Transformer](https://github.com/yaohungt/Multimodal-Transformer) by Yao-Hung Hubert Tsai and [Hypergraph Transformer](https://github.com/YuJungHeo/kbvqa-public) and Yu-Jung Heo.
+* Parts of the code were adapted from [Multimodal Transformer](https://github.com/yaohungt/Multimodal-Transformer) by Yao-Hung Hubert Tsai and [Hypergraph Transformer](https://github.com/YuJungHeo/kbvqa-public) by Yu-Jung Heo.
 
 ## Citation
 ```
