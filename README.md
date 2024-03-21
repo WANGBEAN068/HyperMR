@@ -20,7 +20,7 @@ conda install --yes --file requirements.txt
 ## Setup
 Download preprocessed KVQA, PQ-{2H, 3H, M}, PQL-{2H, 3H, M} datasets.
 ```
-bash download/download.sh
+bash data/download.sh
 ```
 
 ## Training
