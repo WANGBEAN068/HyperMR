@@ -103,5 +103,5 @@ python main.py --data_name pql --cfg ht_pqlM --n_hop 3 --num_workers 2 --abl_ans
 
 ## Citation
 ```
-coming soon ...
+Bin Wang, Fuyong Xu, Peiyu Liu, and Zhenfang Zhu. 2024. HyperMR: Hyperbolic Hypergraph Multi-hop Reasoning for Knowledge-based Visual Question Answering. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 8505–8515, Torino, Italia. ELRA and ICCL.
 ```
